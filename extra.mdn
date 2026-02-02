@@ -1,0 +1,11 @@
+ console.log("Opgave 4a", catsArray.includes("Bagheera") ? "Bagheera": undefined );
+ console.log("Opgave 4b", catsArray.includes("Salem") ? "Salem": undefined );
+if(catsArray.includes("Bagheera"))
+{
+    console.log("Bagheera");
+}
+else
+    {
+        
+        console.log(undefined);
+}
